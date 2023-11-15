@@ -1,5 +1,3 @@
 module buggit { 
-
-	requires lombok;
 	
 }
